@@ -9,9 +9,10 @@ Sprint 1 Projeto Tray
 
 ## Instalação
 
-### 1. Clone o repositório
+1. Clone o repositório
 
 git clone https://github.com/Piveto/projeto-tray-frontend
+
 cd projeto-tray-frontend
 
 2. Instale as dependências
